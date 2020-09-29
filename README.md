@@ -40,19 +40,20 @@ In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **b
 |          Wyoming         |           X           |         X        |     X     |
 
 
+
 # An Evaluation Of The Land
 
 Having wandered a myriad of boundless territories, I have appended a brief, comprehensive statement of my respective series of experiences.
 
 ### United States
 Having wandered
-
+-
 ### Mexico
 Having wandered
-
+-
 ### Canada
 Having wandered
-
+-
 ### Guatemala
 Having wandered
 
