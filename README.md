@@ -4,7 +4,7 @@
 
 For as far back as my juvenile mind may recall, the liberation ushered by travel has been the integral sentiment which I so diligently seek.
 
-You can use the [editor on GitHub](https://github.com/aaronxamaya/AroundTheWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://time.com/5166659/how-to-travel-the-world/) to maintain and preview the content for your website in Markdown files.
 
 # My Travels Thus Far
 
