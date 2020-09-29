@@ -97,6 +97,10 @@ _Jalisco, Mexico_
 
 _Oaxaca, Mexico_
 
+![image](https://user-images.githubusercontent.com/72010465/94576403-25251000-022a-11eb-86ae-c36f8169a35f.png)
+
+_Quintana Roo, Mexico_
+
 ![image](https://user-images.githubusercontent.com/72010465/94576186-edb66380-0229-11eb-95bd-61076320c9b2.png)
 
 _Peten, Guatemala_
