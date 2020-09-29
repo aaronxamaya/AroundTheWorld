@@ -13,20 +13,20 @@ States/Departments/Pronvines:
 
 | United States of America |         Mexico        |      Canada      | Guatemala |
 |:------------------------:|:---------------------:|:----------------:|:---------:|
-|          Alaska          |                       |      Alberta     |   Peten   |
-|          Arizona         | Baja California Norte | British Columbia |     X     |
-|        California        |        Campeche       |       Yukon      |     X     |
-|         Colorado         |        Chiapas        |         X        |     X     |
-|           Idaho          |         Colima        |         X        |     X     |
-|           Iowa           |       Guanajuato      |         X        |     X     |
-|          Kansas          |        Jalisco        |         X        |     X     |
-|         Louisiana        |       Michoacan       |         X        |     X     |
-|         Michigan         |        Nayarit        |         X        |     X     |
-|         Minnesota        |         Oaxaca        |         X        |     X     |
-|          Montana         |         Puebla        |         X        |     X     |
-|         Nebraska         |      Quintana Roo     |         X        |     X     |
-|          Nevada          |        Veracruz       |         X        |     X     |
-|        New Jersey        |        Yucatan        |         X        |     X     |
+|          Alaska          | Baja California Norte |      Alberta     |   Peten   |
+|          Arizona         |        Campeche       | British Columbia |     X     |
+|        California        |        Chiapas        |       Yukon      |     X     |
+|         Colorado         |         Colima        |         X        |     X     |
+|           Idaho          |       Guanajuato      |         X        |     X     |
+|           Iowa           |        Jalisco        |         X        |     X     |
+|          Kansas          |       Michoacan       |         X        |     X     |
+|         Louisiana        |        Nayarit        |         X        |     X     |
+|         Michigan         |         Oaxaca        |         X        |     X     |
+|         Minnesota        |         Puebla        |         X        |     X     |
+|          Montana         |      Quintana Roo     |         X        |     X     |
+|         Nebraska         |        Veracruz       |         X        |     X     |
+|          Nevada          |        Yucatan        |         X        |     X     |
+|        New Jersey        |           X           |         X        |     X     |
 |         New York         |           X           |         X        |     X     |
 |       North Dakota       |           X           |         X        |     X     |
 |          Oregon          |           X           |         X        |     X     |
@@ -38,7 +38,6 @@ States/Departments/Pronvines:
 |        Washington        |           X           |         X        |     X     |
 |         Wisconsin        |           X           |         X        |     X     |
 |          Wyoming         |           X           |         X        |     X     |
-
 
 **Bold** and _Italic_ and `Code` text
 
