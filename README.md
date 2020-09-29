@@ -6,7 +6,7 @@ For as far back as my juvenile mind may recall, the liberation ushered by travel
 
 # My Travels Thus Far
 
-In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a brief catalog of regions across which I have traversed.
+In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **brief catalog** of regions across which I have traversed.
 
 ```markdown
 States/Departments/Pronvines:
