@@ -109,6 +109,10 @@ _Quintana Roo, Mexico_
 
 _Alberta, Canada_
 
+![image](https://user-images.githubusercontent.com/72010465/94582187-d169f500-0230-11eb-8431-f74a3bb569eb.png)
+
+_British Columbia, Canada_
+
 ![image](https://user-images.githubusercontent.com/72010465/94581691-34a75780-0230-11eb-922a-9375405012d0.png)
 
 _Yukon, Canada_
