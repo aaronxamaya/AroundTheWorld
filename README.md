@@ -8,8 +8,8 @@ For as far back as my juvenile mind may recall, the liberation ushered by travel
 
 In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **brief catalog** of regions across which I have traversed.
 
+### States/Departments/Provinces:
 
-States/Departments/Pronvines:
 
 | United States of America |         Mexico        |      Canada      | Guatemala |
 |:------------------------:|:---------------------:|:----------------:|:---------:|
@@ -39,9 +39,25 @@ States/Departments/Pronvines:
 |         Wisconsin        |           X           |         X        |     X     |
 |          Wyoming         |           X           |         X        |     X     |
 
-**Bold** and _Italic_ and `Code` text
+
+# An Evaluation Of The Land
+
+Having wandered a myriad of boundless territories, I have appended a brief, comprehensive statement of my respective series of experiences.
+
+### United States
+Having wandered
+
+### Mexico
+Having wandered
+
+### Canada
+Having wandered
+
+### Guatemala
+Having wandered
 
 [Link](url) and ![Image](src)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
