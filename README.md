@@ -4,16 +4,15 @@
 
 For as far back as my juvenile mind may recall, the liberation ushered by travel has been the integral sentiment which I so diligently seek.
 
-The following is a compilation of my periodic excursions over the duration of several years. I urge that we may all eliminate the partition which witholds us from marveling at God's remarkable work; thus, I yearn that we may pursue the abandonment of the "comfort zone" to see all there is to see. 
+The following is a compilation of my periodic excursions over the duration of several years. I urge that we may all eliminate the partition which witholds us from marveling at God's remarkable work; thus, I yearn for all to abandon the constrictive "comfort zone" in an effort to substantiate the inconceiveable. 
 
-[Make those dreams a reality.](https://time.com/5166659/how-to-travel-the-world/)
+[Go make those dreams a reality.](https://time.com/5166659/how-to-travel-the-world/)
 
 # My Travels Thus Far
 
 In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **brief catalog** of regions across which I have traversed.
 
 ### States/Departments/Provinces:
-
 
 | United States of America |         Mexico        |      Canada      | Guatemala |
 |:------------------------:|:---------------------:|:----------------:|:---------:|
