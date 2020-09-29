@@ -8,7 +8,7 @@ For as far back as my juvenile mind may recall, the liberation ushered by travel
 
 In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **brief catalog** of regions across which I have traversed.
 
-```markdown
+
 States/Departments/Pronvines:
 
 # United States of America
@@ -84,6 +84,6 @@ States/Departments/Pronvines:
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
