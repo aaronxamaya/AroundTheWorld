@@ -11,8 +11,8 @@ In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a bri
 ```markdown
 States/Departments/Pronvines:
 
-- United States of America
-1. California  2. Oregon
+# United States of America
+1. California  
 2. Oregon
 3. Washington
 4. Idaho
@@ -38,9 +38,29 @@ States/Departments/Pronvines:
 24. Kansas
 25. Alaska
 26. Louisiana
-- Canada
+
+-Canada
+1. British Colombia
+2. Yukon
+3. Alberta
+
 - Mexico
+1. Baja California Norte
+2. Jalisco
+3. Colima
+4. Guanajuato
+5. Nayarit
+6. Oaxaca
+7. Chiapas
+8. Quintana Roo
+9. Yucatan
+10. Campeche
+11. Veracruz
+12. Puebla
+13. Michoacan
+
 - Guatemala
+1. Peten
 
 
 **Bold** and _Italic_ and `Code` text
