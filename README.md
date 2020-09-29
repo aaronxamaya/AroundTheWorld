@@ -54,7 +54,7 @@ The epidomy of natural beauty; by far, the most diverse topography — one which
 It is the cultural unification and the subsequent amalgamation of a seemingly primordial world which captivates the essence of the mature country; dotted with archaic pueblos and anachronistic ruins, it is moreso the episodes of history which embodies the core of a potently spirited land.  
 
 ### Canada
-Although abnormally barren, such an expansive province is the domain of the most imposing summits and the most brilliantly radiant bodies of water which I have ever had the pleasure of observing.
+Although abnormally barren, such an expansive province is domain to the most imposing summits and the most brilliantly radiant bodies of water which I have ever had the pleasure of observing.
 
 ### Guatemala
 The nanoscopic sector is host to a plethora of sensational scenery overlooking vast blankets of foliage and vegetation; such an area may be cardinally recognized for its amicable people and untamed wilderness.
