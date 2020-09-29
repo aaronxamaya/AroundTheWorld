@@ -76,5 +76,9 @@ _New Mexico, United States of America_
 
 _Oregon, United States of America_
 
+![image](https://user-images.githubusercontent.com/72010465/94528798-bf1a9780-01ed-11eb-93f8-7877f4ef7b64.png)
+
+_Wyoming, United States of America_
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
