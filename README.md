@@ -64,9 +64,9 @@ Having wandered
 
 _California, United States of America_
 
-![image](https://user-images.githubusercontent.com/72010465/94524358-5cbe9880-01e7-11eb-92a3-c8af17338d57.png)
+![image](https://user-images.githubusercontent.com/72010465/94529065-1b7db700-01ee-11eb-81db-a38a6f827197.png)
 
-_Utah, United States of America_
+_Minnesota, United States of America_
 
 ![image](https://user-images.githubusercontent.com/72010465/94525792-77920c80-01e9-11eb-8fe7-3fd34d5ab886.png)
 
@@ -75,6 +75,10 @@ _New Mexico, United States of America_
 ![image](https://user-images.githubusercontent.com/72010465/94527723-46670b80-01ec-11eb-80e0-4495a593e336.png)
 
 _Oregon, United States of America_
+
+![image](https://user-images.githubusercontent.com/72010465/94524358-5cbe9880-01e7-11eb-92a3-c8af17338d57.png)
+
+_Utah, United States of America_
 
 ![image](https://user-images.githubusercontent.com/72010465/94528798-bf1a9780-01ed-11eb-93f8-7877f4ef7b64.png)
 
