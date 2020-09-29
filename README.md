@@ -4,7 +4,9 @@
 
 For as far back as my juvenile mind may recall, the liberation ushered by travel has been the integral sentiment which I so diligently seek.
 
-You can use the [editor on GitHub](https://time.com/5166659/how-to-travel-the-world/) to maintain and preview the content for your website in Markdown files.
+The following is a compilation of my periodic excursions over the duration of several years. I urge that we may all eliminate the partition which witholds us from marveling at God's remarkable work; thus, I yearn that we may pursue the abandonment of the "comfort zone" to see all there is to see. 
+
+[Make those dreams a reality.](https://time.com/5166659/how-to-travel-the-world/)
 
 # My Travels Thus Far
 
@@ -125,4 +127,3 @@ _Yukon, Canada_
 
 _Peten, Guatemala_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
