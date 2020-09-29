@@ -76,6 +76,10 @@ _New Mexico, United States of America_
 
 _Oregon, United States of America_
 
+![image](https://user-images.githubusercontent.com/72010465/94529971-41578b80-01ef-11eb-8def-c06cc9cee6c4.png)
+
+_Texas, United States of America_
+
 ![image](https://user-images.githubusercontent.com/72010465/94524358-5cbe9880-01e7-11eb-92a3-c8af17338d57.png)
 
 _Utah, United States of America_
