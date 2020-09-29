@@ -1,10 +1,10 @@
 # Around The World
 
-![image](https://user-images.githubusercontent.com/72010465/94531186-0f472900-01f1-11eb-87ad-09c832a4a8f6.png)
-
 You can use the [editor on GitHub](https://github.com/aaronxamaya/AroundTheWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 For as far back as my juvenile mind may recall, the liberation ushered by travel has been the integral sentiment which I so diligently seek.
+
+![image](https://user-images.githubusercontent.com/72010465/94531186-0f472900-01f1-11eb-87ad-09c832a4a8f6.png)
 
 # My Travels Thus Far
 
