@@ -93,5 +93,9 @@ _Wyoming, United States of America_
 
 Jalisco, Mexico
 
+![image](https://user-images.githubusercontent.com/72010465/94576006-b6e04d80-0229-11eb-80bc-0049923c55bb.png)
+
+Oaxaca, Mexico
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
