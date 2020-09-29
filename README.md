@@ -91,11 +91,13 @@ _Wyoming, United States of America_
 
 ![image](https://user-images.githubusercontent.com/72010465/94534321-1b34ea00-01f5-11eb-88f6-f59d71c2f2e2.png)
 
-Jalisco, Mexico
+_Jalisco, Mexico_
 
 ![image](https://user-images.githubusercontent.com/72010465/94576006-b6e04d80-0229-11eb-80bc-0049923c55bb.png)
 
-Oaxaca, Mexico
+_Oaxaca, Mexico_
 
+![image](https://user-images.githubusercontent.com/72010465/94576186-edb66380-0229-11eb-95bd-61076320c9b2.png)
 
+_Peten, Guatemala_
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
