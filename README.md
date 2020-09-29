@@ -57,6 +57,10 @@ Having wandered
 ### Guatemala
 Having wandered
 
+![image](https://user-images.githubusercontent.com/72010465/94527268-91345380-01eb-11eb-8834-b9d8b714a045.png)
+
+_California, United States of America_
+
 ![image](https://user-images.githubusercontent.com/72010465/94524358-5cbe9880-01e7-11eb-92a3-c8af17338d57.png)
 
 _Utah, United States of America_
