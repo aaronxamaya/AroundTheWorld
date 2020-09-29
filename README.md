@@ -9,17 +9,20 @@ For as far back as my juvenile mind may recall, the liberation ushered by travel
 In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a brief catalog of regions across which I have traversed.
 
 ```markdown
-States/Departments/Pronvines:
+**States/Departments/Pronvines:**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+- United States of America
 1. Numbered
-2. List
+1. Numbered
+1. Numbered
+1. Numbered
+1. Numbered
+1. Numbered
+1. Numbered
+- Canada
+- Mexico
+- Guatemala
+
 
 **Bold** and _Italic_ and `Code` text
 
