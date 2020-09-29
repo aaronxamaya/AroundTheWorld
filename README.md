@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/72010465/94531186-0f472900-01f1-11eb-87ad-09c832a4a8f6.png)
 
-You can use the [editor on GitHub](https://github.com/aaronxamaya/AroundTheWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 For as far back as my juvenile mind may recall, the liberation ushered by travel has been the integral sentiment which I so diligently seek.
+
+You can use the [editor on GitHub](https://github.com/aaronxamaya/AroundTheWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 # My Travels Thus Far
 
@@ -89,6 +89,10 @@ _Utah, United States of America_
 
 _Wyoming, United States of America_
 
+![image](https://user-images.githubusercontent.com/72010465/94576998-e0e63f80-022a-11eb-84fd-918bd2b59d74.png)
+
+_Chiapas, Mexico_
+
 ![image](https://user-images.githubusercontent.com/72010465/94534321-1b34ea00-01f5-11eb-88f6-f59d71c2f2e2.png)
 
 _Jalisco, Mexico_
@@ -104,4 +108,5 @@ _Quintana Roo, Mexico_
 ![image](https://user-images.githubusercontent.com/72010465/94576186-edb66380-0229-11eb-95bd-61076320c9b2.png)
 
 _Peten, Guatemala_
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
