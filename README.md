@@ -105,6 +105,10 @@ _Oaxaca, Mexico_
 
 _Quintana Roo, Mexico_
 
+![image](https://user-images.githubusercontent.com/72010465/94581353-d4181a80-022f-11eb-87c2-8af417938dd6.png)
+
+_Alberta, Canada_
+
 ![image](https://user-images.githubusercontent.com/72010465/94576186-edb66380-0229-11eb-95bd-61076320c9b2.png)
 
 _Peten, Guatemala_
