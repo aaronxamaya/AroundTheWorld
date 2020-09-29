@@ -11,74 +11,33 @@ In pursuit of unearthing the enigma of nature's elegant aesthetic, I share a **b
 
 States/Departments/Pronvines:
 
-# United States of America
-1. California  
-2. Oregon
-3. Washington
-4. Idaho
-5. Montana
-6. Wyoming
-7. Colorado
-8. Utah
-9. Nevada
-10. Arizona
-11. New Mexico
-12. Texas
-13. Virginia
-14. Pennsylvania
-15. New York
-16. New Jersey
-17. Nebraska
-18. North Dakota
-19. South Dakota
-20. Minessota
-21. Wisconsin
-22. Michigan
-23. Iowa
-24. Kansas
-25. Alaska
-26. Louisiana
-
--Canada
-1. British Colombia
-2. Yukon
-3. Alberta
-
-- Mexico
-1. Baja California Norte
-2. Jalisco
-3. Colima
-4. Guanajuato
-5. Nayarit
-6. Oaxaca
-7. Chiapas
-8. Quintana Roo
-9. Yucatan
-10. Campeche
-11. Veracruz
-12. Puebla
-13. Michoacan
-
-- Guatemala
-1. Peten
-
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-
-| United States of America | Mexico | Canada | Guatemala |
-|:------------------------:|:------:|:------:|:---------:|
-|                          |        |        |           |
-|                          |        |        |           |
-|                          |        |        |           |
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| United States of America |         Mexico        |      Canada      | Guatemala |
+|:------------------------:|:---------------------:|:----------------:|:---------:|
+|          Alaska          |                       |      Alberta     |   Peten   |
+|          Arizona         | Baja California Norte | British Columbia |     X     |
+|        California        |        Campeche       |       Yukon      |     X     |
+|         Colorado         |        Chiapas        |         X        |     X     |
+|           Idaho          |         Colima        |         X        |     X     |
+|           Iowa           |       Guanajuato      |         X        |     X     |
+|          Kansas          |        Jalisco        |         X        |     X     |
+|         Louisiana        |       Michoacan       |         X        |     X     |
+|         Michigan         |        Nayarit        |         X        |     X     |
+|         Minnesota        |         Oaxaca        |         X        |     X     |
+|          Montana         |         Puebla        |         X        |     X     |
+|         Nebraska         |      Quintana Roo     |         X        |     X     |
+|          Nevada          |        Veracruz       |         X        |     X     |
+|        New Jersey        |        Yucatan        |         X        |     X     |
+|         New York         |           X           |         X        |     X     |
+|       North Dakota       |           X           |         X        |     X     |
+|          Oregon          |           X           |         X        |     X     |
+|       Pennsylvania       |           X           |         X        |     X     |
+|       South Dakota       |           X           |         X        |     X     |
+|           Texas          |           X           |         X        |     X     |
+|           Utah           |           X           |         X        |     X     |
+|         Virginia         |           X           |         X        |     X     |
+|        Washington        |           X           |         X        |     X     |
+|         Wisconsin        |           X           |         X        |     X     |
+|          Wyoming         |           X           |         X        |     X     |
 
 
 **Bold** and _Italic_ and `Code` text
